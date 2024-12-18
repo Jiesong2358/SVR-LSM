@@ -11,5 +11,5 @@ code for parcel damage-based SVR-LSM analysis
 code for parcel-to-parcel disconnection based SVR-LSM analysis
 # 00Final_Permutation_parcel_BrainMaps.py
 code for plotting brain maps from parcel-damage based SVR-LSM 
-## 00Final_Permutation_tract.py                         
+# 00Final_Permutation_tract.py                         
 code for tract disconnection based SVR-LSM analysis
